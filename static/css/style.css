@@ -1,0 +1,21 @@
+.historico {
+	background-color: #E6E6E6cc;
+}
+.footer {
+	height: 10%;
+	background-color: #D8D8D8; 
+}
+
+.noticia{
+	color: #000000; 
+	background-color: #D8D8D8;
+}
+
+.logo{
+	float: left;
+}
+
+.noticia{
+	width: 90%;
+	height: 10%;
+}
